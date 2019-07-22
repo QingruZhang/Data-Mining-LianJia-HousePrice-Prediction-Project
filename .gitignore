@@ -1,8 +1,8 @@
-/preprocess/data/
-/preprocess.zip
-/pics/.ipynb_checkpoints/
-*.pyc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+/preprocess/data/
+/preprocess.zip
+/pics/.ipynb_checkpoints/
+*.pyc
