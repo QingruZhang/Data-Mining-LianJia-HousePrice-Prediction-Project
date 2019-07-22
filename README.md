@@ -8,7 +8,7 @@ Overall, the work in this repo could be summarized in following aspects:
 - Apply various classic machine learning algorithms to predict house price.
 - Construct BiLSTM model to parse raw describtive text of house and combine it to MLP. 
 
-The documents of our work are available here: [[report]](https://github.com/wangjksjtu/Data-Mining-51Job/blob/master/docs/report.pdf).
+The documents of our work are available here: [[report]](https://github.com/QingruZhang/Data-Mining-LianJia-HousePrice-Prediction-Project/blob/master/doc/report.pdf).
 
 ## Requirements
 - [scrapy](https://scrapy.org/) (web crawling)
